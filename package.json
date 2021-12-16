@@ -2,6 +2,7 @@
   "name": "emoji-reactions-socket-server",
   "version": "0.0.1",
   "description": "",
+  "type": "module",
   "dependencies": {},
   "devDependencies": {
     "express": "^4.17.1"
